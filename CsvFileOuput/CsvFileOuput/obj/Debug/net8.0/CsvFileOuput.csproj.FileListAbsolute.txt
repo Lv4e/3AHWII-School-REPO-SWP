@@ -1,0 +1,14 @@
+C:\Users\lukas\source\repos\CsvFileOuput\CsvFileOuput\bin\Debug\net8.0\CsvFileOuput.exe
+C:\Users\lukas\source\repos\CsvFileOuput\CsvFileOuput\bin\Debug\net8.0\CsvFileOuput.deps.json
+C:\Users\lukas\source\repos\CsvFileOuput\CsvFileOuput\bin\Debug\net8.0\CsvFileOuput.runtimeconfig.json
+C:\Users\lukas\source\repos\CsvFileOuput\CsvFileOuput\bin\Debug\net8.0\CsvFileOuput.dll
+C:\Users\lukas\source\repos\CsvFileOuput\CsvFileOuput\bin\Debug\net8.0\CsvFileOuput.pdb
+C:\Users\lukas\source\repos\CsvFileOuput\CsvFileOuput\obj\Debug\net8.0\CsvFileOuput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\source\repos\CsvFileOuput\CsvFileOuput\obj\Debug\net8.0\CsvFileOuput.AssemblyInfoInputs.cache
+C:\Users\lukas\source\repos\CsvFileOuput\CsvFileOuput\obj\Debug\net8.0\CsvFileOuput.AssemblyInfo.cs
+C:\Users\lukas\source\repos\CsvFileOuput\CsvFileOuput\obj\Debug\net8.0\CsvFileOuput.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\CsvFileOuput\CsvFileOuput\obj\Debug\net8.0\CsvFileOuput.dll
+C:\Users\lukas\source\repos\CsvFileOuput\CsvFileOuput\obj\Debug\net8.0\refint\CsvFileOuput.dll
+C:\Users\lukas\source\repos\CsvFileOuput\CsvFileOuput\obj\Debug\net8.0\CsvFileOuput.pdb
+C:\Users\lukas\source\repos\CsvFileOuput\CsvFileOuput\obj\Debug\net8.0\CsvFileOuput.genruntimeconfig.cache
+C:\Users\lukas\source\repos\CsvFileOuput\CsvFileOuput\obj\Debug\net8.0\ref\CsvFileOuput.dll
