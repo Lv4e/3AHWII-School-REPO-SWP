@@ -2,17 +2,18 @@ const express = require('express');
 const { Pool } = require('pg');
 const cors = require('cors');
 const path = require('path');
+require('dotenv').config();
 
 const app = express();
 app.use(cors());
 
-// Database connection
+// Database connection - using environment variables for security
 const pool = new Pool({
-  user: 'postgres',           // your Postgres username
-  host: 'localhost',
-  database: 'testDB', // your database
-  password: 'SQLPasswortLukas2009',   // your password
-  port: 5432
+  user: process.env.DB_USER,
+  host: process.env.DB_HOST,
+  database: process.env.DB_NAME,
+  password: process.env.DB_PASSWORD,
+  port: process.env.DB_PORT
 });
 
 // Serve HTML at root
@@ -32,5 +33,5 @@ app.get('/hello', async (req, res) => {
 });
 
 // Start server
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => console.log(`Server running at http://localhost:${PORT}`));
